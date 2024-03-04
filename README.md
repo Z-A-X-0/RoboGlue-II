@@ -1,5 +1,5 @@
 # RoboGlue-II
-![Alt text](Control_System.png)
+![Alt text](Control_System.jpg)
 
 ## Project Description
 
